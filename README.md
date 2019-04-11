@@ -12,3 +12,4 @@ Solutions to Leetcode Problems in Python
 | [7](https://leetcode.com/problems/reverse-integer/)  | [Reverse Integer](./problems/7.py)  |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/)  | [String to Integer (atoi)](./problems/8.py)  |
 | [9](https://leetcode.com/problems/palindrome-number/)  | [Palindrome Number](./problems/9.py)  |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](./problems/19.py)  |
