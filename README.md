@@ -15,4 +15,4 @@ Solutions to Leetcode Problems in Python
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](./problems/19.py)  |
 | [20](https://leetcode.com/problems/valid-parentheses/)  | [Valid Parentheses](./problems/20.py)  |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Merge Two Sorted Lists](./problems/21.py)  |
-| [23](https://leetcode.com/problems/merge-k-sorted-lists/)  | [Merge k Sorted Lists](./problems/23.py)  |
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/)   | [Merge k Sorted Lists](./problems/23.py)  |
