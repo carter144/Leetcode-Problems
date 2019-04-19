@@ -12,7 +12,10 @@ Solutions to Leetcode Problems in Python
 | [7](https://leetcode.com/problems/reverse-integer/)  | [Reverse Integer](./problems/7.py)  |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/)  | [String to Integer (atoi)](./problems/8.py)  |
 | [9](https://leetcode.com/problems/palindrome-number/)  | [Palindrome Number](./problems/9.py)  |
+| [11](https://leetcode.com/problems/container-with-most-water/)  | [Container With Most Water](./problems/11.py)  |
+| [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [Letter Combinations of a Phone Number](./problems/17.py)  |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Remove Nth Node From End of List](./problems/19.py)  |
 | [20](https://leetcode.com/problems/valid-parentheses/)  | [Valid Parentheses](./problems/20.py)  |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Merge Two Sorted Lists](./problems/21.py)  |
-| [23](https://leetcode.com/problems/merge-k-sorted-lists/)   | [Merge k Sorted Lists](./problems/23.py)  |
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/)  | [Merge k Sorted Lists](./problems/23.py)  |
+| [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Remove Duplicates From Sorted Array](./problems/26.py)  |
