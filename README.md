@@ -19,4 +19,6 @@ Solutions to Leetcode Problems in Python
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Merge Two Sorted Lists](./problems/21.py)  |
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/)  | [Merge k Sorted Lists](./problems/23.py)  |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Remove Duplicates From Sorted Array](./problems/26.py)  |
+| [27](https://leetcode.com/problems/remove-element/)  | [Remove Element](./problems/27.py)  |
+| [28](https://leetcode.com/problems/implement-strstr/)  | [Implement strStr()](./problems/28.py)  |
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
