@@ -23,5 +23,6 @@ Solutions to Leetcode Problems in Python
 | [28](https://leetcode.com/problems/implement-strstr/)  | [Implement strStr()](./problems/28.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
+| [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
 
