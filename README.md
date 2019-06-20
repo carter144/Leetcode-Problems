@@ -21,6 +21,9 @@ Solutions to Leetcode Problems in Python
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Remove Duplicates From Sorted Array](./problems/26.py)  |
 | [27](https://leetcode.com/problems/remove-element/)  | [Remove Element](./problems/27.py)  |
 | [28](https://leetcode.com/problems/implement-strstr/)  | [Implement strStr()](./problems/28.py)  |
+| [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | [Find First and Last Position of Element in Sorted Array](./problems/34.py)  |
+| [35](https://leetcode.com/problems/search-insert-position/)  | [Search Insert Position](./problems/35.py)  |
+| [39](https://leetcode.com/problems/combination-sum/)  | [Combination Sum](./problems/39.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
