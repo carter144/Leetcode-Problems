@@ -24,7 +24,9 @@ Solution:
 	2b. start the right pointer at len(nums) - 1
 	2c. if elements at nums[i] + nums[left] + nums[right] == 0 add to result array
 	2d. if elements at nums[i] + nums[left] + nums[right] > 0 move right to the left by one 
-	2e. if elements at nums[i] + nums[left] + nums[right] < 0 move left to the right by one 
+	2e. if elements at nums[i] + nums[left] + nums[right] < 0 move left to the right by one
+O(N^2) since we are looping through each element followed by a search from the next element to the end of the array.
+O(1) space since we are not using extra space. O(N) if we consider the result array
 """
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:

@@ -24,6 +24,9 @@ Solutions to Leetcode Problems in Python
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Remove Duplicates From Sorted Array](./problems/26.py)  |
 | [27](https://leetcode.com/problems/remove-element/)  | [Remove Element](./problems/27.py)  |
 | [28](https://leetcode.com/problems/implement-strstr/)  | [Implement strStr()](./problems/28.py)  |
+| [31](https://leetcode.com/problems/next-permutation/)  | [Next Permutation](./problems/31.py)  |
+| [32](https://leetcode.com/problems/longest-valid-parentheses/)  | [Longest Valid Parentheses](./problems/32.py)  |
+| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)  | [Search in Rotated Sorted Array](./problems/33.py)  |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | [Find First and Last Position of Element in Sorted Array](./problems/34.py)  |
 | [35](https://leetcode.com/problems/search-insert-position/)  | [Search Insert Position](./problems/35.py)  |
 | [39](https://leetcode.com/problems/combination-sum/)  | [Combination Sum](./problems/39.py)  |
