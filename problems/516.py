@@ -42,6 +42,8 @@ We have two conditions:
         2a. dp[i][j] = max(dp[i][j - 1], dp[i + 1][j])
         2b. Take the max of left element, or bottom element
 return dp[0][n - 1]
+
+O(N^2) runtime and space
 """
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:

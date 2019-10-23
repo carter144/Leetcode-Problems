@@ -49,6 +49,7 @@ We have two conditions:
 
 Find the longest Palindrome Subsequence
 If there exists a palindromic subsequence >= len(s) - k: then we return true
+O(N^2) runtime and space
 """
 
 

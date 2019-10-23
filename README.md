@@ -30,11 +30,14 @@ Solutions to Leetcode Problems in Python
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | [Find First and Last Position of Element in Sorted Array](./problems/34.py)  |
 | [35](https://leetcode.com/problems/search-insert-position/)  | [Search Insert Position](./problems/35.py)  |
 | [39](https://leetcode.com/problems/combination-sum/)  | [Combination Sum](./problems/39.py)  |
+| [46](https://leetcode.com/problems/permutations/)  | [Permutations](./problems/46.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
+| [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
 | [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/)  | [Valid Palindrome II](./problems/680.py)  |
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
 | [1057](https://leetcode.com/problems/campus-bikes/)  | [Campus Bikes](./problems/1057.py)  |
+| [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [1110. Delete Nodes And Return Forest](./problems/1110.py)  |
 | [1216](https://leetcode.com/problems/valid-palindrome-iii/)  | [Valid Palindrome III](./problems/1216.py)  |
 
