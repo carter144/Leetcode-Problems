@@ -33,6 +33,8 @@ Solutions to Leetcode Problems in Python
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
+| [680](https://leetcode.com/problems/valid-palindrome-ii/)  | [Valid Palindrome II](./problems/680.py)  |
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
 | [1057](https://leetcode.com/problems/campus-bikes/)  | [Campus Bikes](./problems/1057.py)  |
+| [1216](https://leetcode.com/problems/valid-palindrome-iii/)  | [Valid Palindrome III](./problems/1216.py)  |
 
