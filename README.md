@@ -31,6 +31,8 @@ Solutions to Leetcode Problems in Python
 | [35](https://leetcode.com/problems/search-insert-position/)  | [Search Insert Position](./problems/35.py)  |
 | [39](https://leetcode.com/problems/combination-sum/)  | [Combination Sum](./problems/39.py)  |
 | [46](https://leetcode.com/problems/permutations/)  | [Permutations](./problems/46.py)  |
+| [49](https://leetcode.com/problems/group-anagrams/)  | [Group Anagrams](./problems/49.py)  |
+| [53](https://leetcode.com/problems/maximum-subarray/)  | [Maximum Subarray](./problems/53.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
