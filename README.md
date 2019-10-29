@@ -34,6 +34,8 @@ Solutions to Leetcode Problems in Python
 | [49](https://leetcode.com/problems/group-anagrams/)  | [Group Anagrams](./problems/49.py)  |
 | [50](https://leetcode.com/problems/powx-n/)  | [Pow(x, n)](./problems/50.py)  |
 | [53](https://leetcode.com/problems/maximum-subarray/)  | [Maximum Subarray](./problems/53.py)  |
+| [54](https://leetcode.com/problems/spiral-matrix/)  | [Spiral Matrix](./problems/54.py)  |
+| [55](https://leetcode.com/problems/jump-game/)  | [Jump Game](./problems/55.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
