@@ -37,6 +37,8 @@ Solutions to Leetcode Problems in Python
 | [54](https://leetcode.com/problems/spiral-matrix/)  | [Spiral Matrix](./problems/54.py)  |
 | [55](https://leetcode.com/problems/jump-game/)  | [Jump Game](./problems/55.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
+| [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
+| [108](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/108.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
 | [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
