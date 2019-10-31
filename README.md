@@ -37,6 +37,9 @@ Solutions to Leetcode Problems in Python
 | [54](https://leetcode.com/problems/spiral-matrix/)  | [Spiral Matrix](./problems/54.py)  |
 | [55](https://leetcode.com/problems/jump-game/)  | [Jump Game](./problems/55.py)  |
 | [56](https://leetcode.com/problems/merge-intervals/)  | [Merge Intervals](./problems/56.py)  |
+| [57](https://leetcode.com/problems/insert-interval/)  | [Insert Interval](./problems/57.py)  |
+| [58](https://leetcode.com/problems/length-of-last-word/)  | [Length of Last Word](./problems/58.py)  |
+| [59](https://leetcode.com/problems/spiral-matrix-ii/)  | [Spiral Matrix II](./problems/59.py)  |
 | [70](https://leetcode.com/problems/climbing-stairs/)  | [Climbing Stairs](./problems/70.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
 | [108](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/108.py)  |
