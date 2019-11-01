@@ -43,6 +43,8 @@ Solutions to Leetcode Problems in Python
 | [70](https://leetcode.com/problems/climbing-stairs/)  | [Climbing Stairs](./problems/70.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
 | [108](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/108.py)  |
+| [133](https://leetcode.com/problems/clone-graph/)  | [Clone Graph](./problems/133.py)  |
+| [138](https://leetcode.com/problems/copy-list-with-random-pointer/)  | [Copy List with Random Pointer](./problems/138.py)  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Longest Increasing Subsequence](./problems/300.py)  |
 | [322](https://leetcode.com/problems/coin-change/)  | [Coin Change](./problems/322.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
