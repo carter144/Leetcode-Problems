@@ -40,6 +40,7 @@ Solutions to Leetcode Problems in Python
 | [57](https://leetcode.com/problems/insert-interval/)  | [Insert Interval](./problems/57.py)  |
 | [58](https://leetcode.com/problems/length-of-last-word/)  | [Length of Last Word](./problems/58.py)  |
 | [59](https://leetcode.com/problems/spiral-matrix-ii/)  | [Spiral Matrix II](./problems/59.py)  |
+| [62](https://leetcode.com/problems/unique-paths/)  | [Unique Paths](./problems/62.py)  |
 | [70](https://leetcode.com/problems/climbing-stairs/)  | [Climbing Stairs](./problems/70.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
 | [108](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/108.py)  |
