@@ -44,6 +44,7 @@ Solutions to Leetcode Problems in Python
 | [63](https://leetcode.com/problems/unique-paths-ii/)  | [Unique Paths II](./problems/63.py)  |
 | [64](https://leetcode.com/problems/minimum-path-sum/)  | [Minimum Path Sum](./problems/64.py)  |
 | [66](https://leetcode.com/problems/plus-one/)  | [Plus One](./problems/66.py)  |
+| [67](https://leetcode.com/problems/add-binary/)  | [Add Binary](./problems/67.py)  |
 | [70](https://leetcode.com/problems/climbing-stairs/)  | [Climbing Stairs](./problems/70.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
 | [108](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/108.py)  |
