@@ -60,6 +60,7 @@ Solutions to Leetcode Problems in Python
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
 | [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/)  | [Valid Palindrome II](./problems/680.py)  |
+| [994](https://leetcode.com/problems/rotting-oranges/)  | [Rotting Oranges](./problems/994.py)  |
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
 | [1057](https://leetcode.com/problems/campus-bikes/)  | [Campus Bikes](./problems/1057.py)  |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [Delete Nodes And Return Forest](./problems/1110.py)  |
