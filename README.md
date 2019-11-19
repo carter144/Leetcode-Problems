@@ -50,6 +50,7 @@ Solutions to Leetcode Problems in Python
 | [71](https://leetcode.com/problems/simplify-path/)  | [Simplify Path](./problems/71.py)  |
 | [72](https://leetcode.com/problems/edit-distance/)  | [Edit Distance](./problems/72.py)  |
 | [78](https://leetcode.com/problems/subsets/)  | [Subsets](./problems/78.py)  |
+| [79](https://leetcode.com/problems/word-search/)  | [Word Search](./problems/79.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
 | [108](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/108.py)  |
 | [133](https://leetcode.com/problems/clone-graph/)  | [Clone Graph](./problems/133.py)  |
