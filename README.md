@@ -60,6 +60,7 @@ Solutions to Leetcode Problems in Python
 | [202](https://leetcode.com/problems/happy-number/)  | [Happy Number](./problems/202.py)  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Longest Increasing Subsequence](./problems/300.py)  |
 | [322](https://leetcode.com/problems/coin-change/)  | [Coin Change](./problems/322.py)  |
+| [346](https://leetcode.com/problems/moving-average-from-data-stream/)  | [Moving Average from Data Stream](./problems/346.py)  |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/)  | [Top K Frequent Elements](./problems/347.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
