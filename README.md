@@ -52,6 +52,7 @@ Solutions to Leetcode Problems in Python
 | [78](https://leetcode.com/problems/subsets/)  | [Subsets](./problems/78.py)  |
 | [79](https://leetcode.com/problems/word-search/)  | [Word Search](./problems/79.py)  |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Remove Duplicates from Sorted List](./problems/83.py)  |
+| [91](https://leetcode.com/problems/decode-ways/)  | [Decode Ways](./problems/91.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/104.py)  |
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  | [Convert Sorted Array to Binary Search Tree](./problems/108.py)  |
