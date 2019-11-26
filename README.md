@@ -49,6 +49,7 @@ Solutions to Leetcode Problems in Python
 | [70](https://leetcode.com/problems/climbing-stairs/)  | [Climbing Stairs](./problems/70.py)  |
 | [71](https://leetcode.com/problems/simplify-path/)  | [Simplify Path](./problems/71.py)  |
 | [72](https://leetcode.com/problems/edit-distance/)  | [Edit Distance](./problems/72.py)  |
+| [74](https://leetcode.com/problems/search-a-2d-matrix/)  | [Search a 2D Matrix](./problems/74.py)  |
 | [78](https://leetcode.com/problems/subsets/)  | [Subsets](./problems/78.py)  |
 | [79](https://leetcode.com/problems/word-search/)  | [Word Search](./problems/79.py)  |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Remove Duplicates from Sorted List](./problems/83.py)  |
@@ -60,6 +61,7 @@ Solutions to Leetcode Problems in Python
 | [133](https://leetcode.com/problems/clone-graph/)  | [Clone Graph](./problems/133.py)  |
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/)  | [Copy List with Random Pointer](./problems/138.py)  |
 | [202](https://leetcode.com/problems/happy-number/)  | [Happy Number](./problems/202.py)  |
+| [240](https://leetcode.com/problems/search-a-2d-matrix-ii/)  | [Search a 2D Matrix II](./problems/240.py)  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Longest Increasing Subsequence](./problems/300.py)  |
 | [322](https://leetcode.com/problems/coin-change/)  | [Coin Change](./problems/322.py)  |
 | [346](https://leetcode.com/problems/moving-average-from-data-stream/)  | [Moving Average from Data Stream](./problems/346.py)  |
