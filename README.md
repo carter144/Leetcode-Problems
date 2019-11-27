@@ -56,6 +56,7 @@ Solutions to Leetcode Problems in Python
 | [91](https://leetcode.com/problems/decode-ways/)  | [Decode Ways](./problems/91.py)  |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [Binary Tree Inorder Traversal](./problems/94.py)  |
 | [100](https://leetcode.com/problems/same-tree/)  | [Same Tree](./problems/100.py)  |
+| [101](https://leetcode.com/problems/symmetric-tree/)  | [Symmetric Tree](./problems/101.py)  |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Maximum Depth of Binary Tree](./problems/104.py)  |
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  | [Convert Sorted Array to Binary Search Tree](./problems/108.py)  |
 | [133](https://leetcode.com/problems/clone-graph/)  | [Clone Graph](./problems/133.py)  |

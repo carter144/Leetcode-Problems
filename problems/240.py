@@ -23,8 +23,11 @@ We need to compare the element at each step to the target.
 1. If the element == target: return True
 2. If the element >  target: the element is too big so we have to go smaller: move one row up
 3. If the element <  target: the element is too small so we have to go bigger: move one col right
+
+If we run out of bounds, then we return false.
 Runtime: O(m + n)
 Space: O(N)
+
 """
 class Solution:
     def searchMatrix(self, matrix, target):
