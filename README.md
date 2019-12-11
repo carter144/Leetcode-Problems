@@ -66,6 +66,7 @@ Solutions to Leetcode Problems in Python
 | [111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  | [Minimum Depth of Binary Tree](./problems/111.py)  |
 | [112](https://leetcode.com/problems/path-sum/)  | [Path Sum](./problems/112.py)  |
 | [114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [Flatten Binary Tree to Linked List](./problems/114.py)  |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [Best Time to Buy and Sell Stock](./problems/121.py)  |
 | [133](https://leetcode.com/problems/clone-graph/)  | [Clone Graph](./problems/133.py)  |
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/)  | [Copy List with Random Pointer](./problems/138.py)  |
 | [202](https://leetcode.com/problems/happy-number/)  | [Happy Number](./problems/202.py)  |
