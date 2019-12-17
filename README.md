@@ -88,5 +88,6 @@ Solutions to Leetcode Problems in Python
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
 | [1057](https://leetcode.com/problems/campus-bikes/)  | [Campus Bikes](./problems/1057.py)  |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [Delete Nodes And Return Forest](./problems/1110.py)  |
+| [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)  | [Remove Zero Sum Consecutive Nodes from Linked List](./problems/1171.py)  |
 | [1216](https://leetcode.com/problems/valid-palindrome-iii/)  | [Valid Palindrome III](./problems/1216.py)  |
 
