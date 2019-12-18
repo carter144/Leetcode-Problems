@@ -13,6 +13,7 @@ Solutions to Leetcode Problems in Python
 | [8](https://leetcode.com/problems/string-to-integer-atoi/)  | [String to Integer (atoi)](./problems/8.py)  |
 | [9](https://leetcode.com/problems/palindrome-number/)  | [Palindrome Number](./problems/9.py)  |
 | [11](https://leetcode.com/problems/container-with-most-water/)  | [Container With Most Water](./problems/11.py)  |
+| [13](https://leetcode.com/problems/roman-to-integer/)  | [Roman to Integer](./problems/13.py)  |
 | [14](https://leetcode.com/problems/longest-common-prefix/)  | [Longest Common Prefix](./problems/14.py)  |
 | [15](https://leetcode.com/problems/3sum/)  | [3Sum](./problems/15.py)  |
 | [16](https://leetcode.com/problems/3sum-closest/)  | [3Sum Closest](./problems/16.py)  |
