@@ -68,6 +68,7 @@ Solutions to Leetcode Problems in Python
 | [112](https://leetcode.com/problems/path-sum/)  | [Path Sum](./problems/112.py)  |
 | [114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [Flatten Binary Tree to Linked List](./problems/114.py)  |
 | [118](https://leetcode.com/problems/pascals-triangle/)  | [Pascal's Triangle](./problems/118.py)  |
+| [120](https://leetcode.com/problems/triangle/)  | [Triangle](./problems/120.py)  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [Best Time to Buy and Sell Stock](./problems/121.py)  |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Best Time to Buy and Sell Stock II](./problems/122.py)  |
 | [125](https://leetcode.com/problems/valid-palindrome/)  | [Valid Palindrome](./problems/125.py)  |
