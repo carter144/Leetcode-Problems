@@ -97,4 +97,5 @@ Solutions to Leetcode Problems in Python
 | [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)  | [Remove Zero Sum Consecutive Nodes from Linked List](./problems/1171.py)  |
 | [1216](https://leetcode.com/problems/valid-palindrome-iii/)  | [Valid Palindrome III](./problems/1216.py)  |
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)  | [Divide Array in Sets of K Consecutive Numbers](./problems/1296.py)  |
+| [1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)  | [Find N Unique Integers Sum up to Zero](./problems/1304.py)  |
 
