@@ -77,6 +77,7 @@ Solutions to Leetcode Problems in Python
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/)  | [Copy List with Random Pointer](./problems/138.py)  |
 | [141](https://leetcode.com/problems/linked-list-cycle/)  | [Linked List Cycle](./problems/141.py)  |
 | [152](https://leetcode.com/problems/maximum-product-subarray/)  | [Maximum Product Subarray](./problems/152.py)  |
+| [155](https://leetcode.com/problems/min-stack/)  | [Min Stack](./problems/155.py)  |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)  | [Intersection of Two Linked Lists](./problems/160.py)  |
 | [169](https://leetcode.com/problems/majority-element/)  | [Majority Element](./problems/169.py)  |
 | [191](https://leetcode.com/problems/number-of-1-bits/)  | [Number of 1 Bits](./problems/191.py)  |
