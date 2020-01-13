@@ -79,6 +79,7 @@ Solutions to Leetcode Problems in Python
 | [152](https://leetcode.com/problems/maximum-product-subarray/)  | [Maximum Product Subarray](./problems/152.py)  |
 | [155](https://leetcode.com/problems/min-stack/)  | [Min Stack](./problems/155.py)  |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)  | [Intersection of Two Linked Lists](./problems/160.py)  |
+| [162](https://leetcode.com/problems/find-peak-element/)  | [Find Peak Element](./problems/162.py)  |
 | [169](https://leetcode.com/problems/majority-element/)  | [Majority Element](./problems/169.py)  |
 | [191](https://leetcode.com/problems/number-of-1-bits/)  | [Number of 1 Bits](./problems/191.py)  |
 | [198](https://leetcode.com/problems/house-robber/)  | [House Robber](./problems/198.py)  |
