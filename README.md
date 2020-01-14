@@ -99,6 +99,7 @@ Solutions to Leetcode Problems in Python
 | [872](https://leetcode.com/problems/leaf-similar-trees/)  | [Leaf-Similar Trees](./problems/872.py)  |
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Reorder Data in Log Files](./problems/937.py)  |
 | [994](https://leetcode.com/problems/rotting-oranges/)  | [Rotting Oranges](./problems/994.py)  |
+| [997](https://leetcode.com/problems/find-the-town-judge/)  | [Find the Town Judge](./problems/997.py)  |
 | [999](https://leetcode.com/problems/available-captures-for-rook/)  | [Available Captures for Rook](./problems/999.py)  |
 | [1057](https://leetcode.com/problems/campus-bikes/)  | [Campus Bikes](./problems/1057.py)  |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [Delete Nodes And Return Forest](./problems/1110.py)  |
