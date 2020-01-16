@@ -94,6 +94,7 @@ Solutions to Leetcode Problems in Python
 | [347](https://leetcode.com/problems/top-k-frequent-elements/)  | [Top K Frequent Elements](./problems/347.py)  |
 | [495](https://leetcode.com/problems/teemo-attacking/)  | [Teemo Attacking](./problems/495.py)  |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)  | [Longest Palindromic Subsequence](./problems/516.py)  |
+| [524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)  | [Longest Word in Dictionary through Deleting](./problems/524.py)  |
 | [572](https://leetcode.com/problems/subtree-of-another-tree/)  | [Subtree of Another Tree](./problems/572.py)  |
 | [605](https://leetcode.com/problems/can-place-flowers/)  | [Can Place Flowers](./problems/605.py)  |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/)  | [Valid Palindrome II](./problems/680.py)  |
