@@ -85,6 +85,7 @@ Solutions to Leetcode Problems in Python
 | [191](https://leetcode.com/problems/number-of-1-bits/)  | [Number of 1 Bits](./problems/191.py)  |
 | [198](https://leetcode.com/problems/house-robber/)  | [House Robber](./problems/198.py)  |
 | [199](https://leetcode.com/problems/binary-tree-right-side-view/)  | [Binary Tree Right Side View](./problems/199.py)  |
+| [200](https://leetcode.com/problems/number-of-islands/)  | [Number of Islands](./problems/200.py)  |
 | [202](https://leetcode.com/problems/happy-number/)  | [Happy Number](./problems/202.py)  |
 | [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | [Kth Smallest Element in a BST](./problems/230.py)  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/)  | [Search a 2D Matrix II](./problems/240.py)  |
