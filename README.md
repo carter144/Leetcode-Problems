@@ -88,6 +88,7 @@ Solutions to Leetcode Problems in Python
 | [200](https://leetcode.com/problems/number-of-islands/)  | [Number of Islands](./problems/200.py)  |
 | [202](https://leetcode.com/problems/happy-number/)  | [Happy Number](./problems/202.py)  |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/)  | [Remove Linked List Elements](./problems/203.py)  |
+| [206](https://leetcode.com/problems/reverse-linked-list/)  | [Reverse Linked List](./problems/206.py)  |
 | [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | [Kth Smallest Element in a BST](./problems/230.py)  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/)  | [Search a 2D Matrix II](./problems/240.py)  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Longest Increasing Subsequence](./problems/300.py)  |
