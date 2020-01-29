@@ -88,6 +88,7 @@ Solutions to Leetcode Problems in Python
 | [200](https://leetcode.com/problems/number-of-islands/)  | [Number of Islands](./problems/200.py)  |
 | [202](https://leetcode.com/problems/happy-number/)  | [Happy Number](./problems/202.py)  |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/)  | [Remove Linked List Elements](./problems/203.py)  |
+| [205](https://leetcode.com/problems/isomorphic-strings/)  | [Isomorphic Strings](./problems/205.py)  |
 | [206](https://leetcode.com/problems/reverse-linked-list/)  | [Reverse Linked List](./problems/206.py)  |
 | [208](https://leetcode.com/problems/implement-trie-prefix-tree/)  | [Implement Trie (Prefix Tree)](./problems/208.py)  |
 | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/)  | [Kth Largest Element in an Array](./problems/215.py)  |
