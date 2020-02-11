@@ -101,6 +101,7 @@ Solutions to Leetcode Problems in Python
 | [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Lowest Common Ancestor of a Binary Tree](./problems/236.py)  |
 | [238](https://leetcode.com/problems/product-of-array-except-self/)  | [Product of Array Except Self](./problems/238.py)  |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/)  | [Search a 2D Matrix II](./problems/240.py)  |
+| [242](https://leetcode.com/problems/valid-anagram/)  | [Valid Anagram](./problems/242.py)  |
 | [243](https://leetcode.com/problems/shortest-word-distance/)  | [Shortest Word Distance](./problems/243.py)  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Longest Increasing Subsequence](./problems/300.py)  |
 | [322](https://leetcode.com/problems/coin-change/)  | [Coin Change](./problems/322.py)  |
