@@ -104,6 +104,7 @@ Solutions to Leetcode Problems in Python
 | [242](https://leetcode.com/problems/valid-anagram/)  | [Valid Anagram](./problems/242.py)  |
 | [243](https://leetcode.com/problems/shortest-word-distance/)  | [Shortest Word Distance](./problems/243.py)  |
 | [258](https://leetcode.com/problems/add-digits/)  | [Add Digits](./problems/258.py)  |
+| [269](https://leetcode.com/problems/alien-dictionary/)  | [Alien Dictionary](./problems/269.py)  |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Longest Increasing Subsequence](./problems/300.py)  |
 | [322](https://leetcode.com/problems/coin-change/)  | [Coin Change](./problems/322.py)  |
 | [346](https://leetcode.com/problems/moving-average-from-data-stream/)  | [Moving Average from Data Stream](./problems/346.py)  |
